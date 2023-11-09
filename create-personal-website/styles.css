@@ -459,6 +459,10 @@
   align-items: center;
   width: 240px;
 }
+
+.highlight {
+  border-bottom: 4px solid rgb(132, 0, 255);
+}
 /* responsive */
 @media screen and (max-width: 1300px) {
   .services__wrapper {
